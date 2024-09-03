@@ -1,0 +1,75 @@
+/* img{
+    width: 50vw;
+    height: 80vh;
+} */
+ *{
+    text-align: center;
+ }
+p{
+    color: brown;
+    /* font-family: 'Courier New', Courier, monospace; */
+}
+
+#Rohit, #Phillips{
+    background-color: orange;
+}
+#Virat{
+    background-color: rgb(132, 132, 237);
+}
+#Hardik, #Santner{
+    background-color: rgb(121, 230, 121);
+  }
+  #Surya{
+    background-color: rgb(200, 144, 252);
+  }
+  #Ravindra{
+    background-color: yellow;
+  }
+  #Pat{
+    background-color: rgb(76, 205, 76);
+  }
+  #Davidw{
+    background-color: rgb(240, 236, 108);
+  }
+  #Travis{
+    background-color: rgb(245, 132, 228);
+  }
+  #Glen{
+    background-color: aqua;
+  }
+  #Mitchel, #Trent{
+    background-color: rgb(246, 118, 72);
+  }
+  #Jos{
+    background-color: rgb(250, 225, 229);
+  }
+  #Jhonny{
+    background-color: rgb(7, 208, 208);
+  }
+  #Liam{
+    background-color: rgb(255, 202, 123);
+  }
+  #Harry{
+    background-color:rgb(122, 166, 247) ;
+  }
+  #Josep,#Quinten{
+    background-color:rgb(80, 249, 131) ;
+  }
+  #Henrich{
+    background-color:rgb(188, 181, 181) ;
+  }
+  #Aiden{
+    background-color: rgb(134, 122, 215);
+  }
+  #David{
+    background-color:rgb(20, 141, 211) ;
+  }
+  #Kagiso{
+    background-color:rgba(255, 238, 219, 0.868) ;
+  }
+  #Rachin{
+    background-color:bisque ;
+  }
+  #Kane{
+    background-color:rgb(217, 81, 81) ;
+  }
